@@ -35,3 +35,12 @@ p.qwe{
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
 }
+a{
+    text-decoration: none;
+    text-align: center;
+    color: brown;
+    border: 2px black solid;
+    border-radius: 20px;
+
+   
+}
