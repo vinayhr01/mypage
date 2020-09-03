@@ -1,7 +1,7 @@
 body{
     margin: 2%;
 }
-h2{
+h1{
     text-align: center;
     background-color: rgba(30, 212, 182, 0.781);
     padding: 40px;
@@ -26,6 +26,7 @@ p.qwe{
     font-variant: small-caps;
     text-decoration: none;
     margin-block-start: 0px;
+    margin-block-end: 40px;
     font-size: 15pt;
     color: rgba(129, 28, 11, 0.87);
     font-weight: bold;
@@ -40,7 +41,36 @@ a{
     text-align: center;
     color: brown;
     border: 2px black solid;
-    border-radius: 20px;
-
-   
+    border-radius: 10px;
+    margin: auto 597px; 
+    background-color: rgba(30, 212, 182, 0.781); 
+    opacity: 0.7;
+    padding: 5px;
+    font-family: "comic sans ms";
+}
+a:hover{
+    opacity: 1.0;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color: blue ;
+}
+a:visited{
+    background-color: cadetblue;
+    color: red;
+}
+.poi{
+    font-family: "Comic sans MS";
+}
+.lkj{
+    margin: 0px 0px 30px 0px;
+}
+h2{
+    font-style: oblique;
+    font-size: 30pt;
+    text-decoration: underline;
+    text-decoration-color: peru ;
+    background-color: powderblue;
+    border: 2px solid powderblue;
+    border-radius: 10px;
 }
